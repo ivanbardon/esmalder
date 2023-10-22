@@ -1,7 +1,7 @@
 ---
 title: Reparacion Bañera
 publishDate: 2020-03-04 00:00:00
-img: /assets/stock-3.jpg
+img: /assets/baneraazul.jpeg
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: Es posible esmaltar la bañera en casi cualquier tonalidad y adaptar el acabado según las necesidades de diseño más exigentes.
 tags:
