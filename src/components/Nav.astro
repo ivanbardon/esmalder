@@ -5,9 +5,9 @@ import type { iconPaths } from './IconPaths';
 
 /** Main menu items */
 const textLinks: { label: string; href: string }[] = [
-	{ label: 'Home', href: '/' },
-	{ label: 'Work', href: '/work/' },
-	{ label: 'About', href: '/about/' },
+	{ label: 'Inicio', href: '/' },
+	{ label: 'Servicios', href: '/servicios/' },
+	{ label: 'Contacto', href: '/contacto/' },
 ];
 
 /** Icon links to social media — edit these with links to your profiles! */
@@ -61,18 +61,7 @@ const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[]
 		</ul>
 	</noscript>
 	<noscript>
-		<div class="menu-footer">
-			<div class="socials">
-				{
-					iconLinks.map(({ href, icon, label }) => (
-						<a href={href} class="social">
-							<span class="sr-only">{label}</span>
-							<Icon icon={icon} />
-						</a>
-					))
-				}
-			</div>
-		</div>
+		
 	</noscript>
 	<div id="menu-content" hidden>
 		<ul class="nav-items">
@@ -98,16 +87,6 @@ const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[]
 			}
 		</ul>
 		<div class="menu-footer">
-			<div class="socials">
-				{
-					iconLinks.map(({ href, icon, label }) => (
-						<a href={href} class="social">
-							<span class="sr-only">{label}</span>
-							<Icon icon={icon} />
-						</a>
-					))
-				}
-			</div>
 
 			<div class="theme-toggle">
 				<ThemeToggle />
