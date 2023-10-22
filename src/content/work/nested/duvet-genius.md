@@ -1,22 +1,28 @@
 ---
-title: Duvet Genius
+title: Reparacion Bañera
 publishDate: 2020-03-04 00:00:00
 img: /assets/stock-3.jpg
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
-description: |
-  We developed a virtual showcase for the softest bedding imaginable.
+description: Es posible esmaltar la bañera en casi cualquier tonalidad y adaptar el acabado según las necesidades de diseño más exigentes.
 tags:
-  - Design
-  - Dev
-  - Branding
+  - Esmaltado
+  - Reparacion
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+Con el tiempo, las bañeras pueden perder su brillo, oxidarse y mostrar arañazos, lo que altera su apariencia. Tener una bañera con este aspecto deteriora la estética del baño y reemplazarla implica una inversión considerable tanto en trabajo como en dinero.
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+El proceso de esmaltar una bañera ofrece una alternativa duradera, permitiendo renovar la bañera original en una única sesión. Es un procedimiento parecido a la pintura de un coche, pero se usan materiales específicos que garantizan una apariencia impecable por muchos años.
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+La técnica de esmaltado de bañera se realiza a pistola, si bien previamente debemos restaurar en la bañera los arañazos, óxidos, impactos, desgastes y cuantos desperfectos presenten. Continuamente desde hace más de 11 años estamos añadiendo técnicas y productos cada vez más evolucionados para poder garantizar la durabilidad y estética en todos nuestros trabajos.
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Investigamos nuevas técnicas, nuevos productos y probamos para posteriormente formar a nuestros operarios e implementarlo en los trabajos. Evolucionamos constantemente. Tenemos capacidad de resolver con nuestra técnica de esmaltado de bañera oxidaciones profundas y perforaciones en una sola sesión, ahorrando obras, tiempo y dinero.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+Cuando la bañera está desgastada por el paso de los años o por el uso de productos ácidos en la limpieza, podemos realizar un esmaltado de bañera, devolviendo las cualidades de brillo.
+
+También hemos incorporado la restauración en grietas en bañeras acrílicas por la cual, una grieta en bañera con diferentes técnicas puede volver a quedar funcional con garantía por escrito.
+
+El esmaltado de bañera debido a la rapidez y bajo precio de servicio respecto a una obra se solicita habitualmente en hoteles y hostales, así como en inmobiliarias, viviendas turísticas y particulares.
+
+
+
+
