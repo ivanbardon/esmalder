@@ -2,11 +2,12 @@
 import Icon from './Icon.astro';
 import ThemeToggle from './ThemeToggle.astro';
 import type { iconPaths } from './IconPaths';
+import ContactCTA from './ContactCTA.astro';
 
 /** Main menu items */
 const textLinks: { label: string; href: string }[] = [
 	{ label: 'Inicio', href: '/' },
-	{ label: 'Servicios', href: '/servicios/' },
+	{ label: 'Trabajos', href: '/work/' },
 	{ label: 'Contacto', href: '/contacto/' },
 ];
 
@@ -25,7 +26,7 @@ const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[]
 	<div class="menu-header">
 		<a href="/" class="site-title">
 			<Icon icon="bath" color="var(--accent-regular)" size="1.6em" gradient />
-			 RepararBañera
+			 ReparaTuBañera
 		</a>
 		<menu-button>
 			<template>
@@ -87,7 +88,6 @@ const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[]
 			}
 		</ul>
 		<div class="menu-footer">
-
 			<div class="theme-toggle">
 				<ThemeToggle />
 			</div>

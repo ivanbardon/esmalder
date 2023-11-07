@@ -30,14 +30,14 @@ const projects = (await getCollection('work'))
 		<div class="wrapper stack gap-8 lg:gap-20">
 			<header class="hero">
 				<Hero
-					title="RepararBañera"
-					tagline="Reparacion y esmaltado de bañeras y platos de ducha"
+					title="ReparaTuBañera"
+					tagline="En ReparaTuBañera.com somos especialistas en la reparación y esmaltado de bañeras y platos de ducha"
 					align="start"
 				>
 					<div class="roles">
-						<Pill><Icon icon="rayo" size="1.33em" /> Rapidos</Pill>
+						<Pill><Icon icon="rayo" size="1.33em" /> Rápidos</Pill>
 						<Pill><Icon icon="trophy" size="1.33em" /> Fiables</Pill>
-						<Pill><Icon icon="hucha" size="1.33em" /> Economicos</Pill>
+						<Pill><Icon icon="hucha" size="1.33em" /> Económicos</Pill>
 					</div>
 				</Hero>
 
@@ -48,15 +48,28 @@ const projects = (await getCollection('work'))
 					src="/assets/banera1.jpeg"
 				/>
 			</header>
-
+			<header class="section-header stack gap-2 lg:gap-4">
+				<h3>Solicite presupuesto</h3>
+				<h5>Sin compromiso</h5>
+				<div>
+					<CallToAction href='#'>Envíanos un Whatsapp
+						<Icon icon='whatsapp'></Icon>
+					</CallToAction>
+					<br>
+					<CallToAction href='#'>Contáctanos via e-Mail
+						<Icon icon='paper-plane-tilt'></Icon>
+					</CallToAction>
+				</div>
+			</header>
+			<h3>Nos eligen porque somos</h3>
 			<Skills />
 		</div>
 
 		<main class="wrapper stack gap-20 lg:gap-48">
 			<section class="section with-background with-cta">
 				<header class="section-header stack gap-2 lg:gap-4">
-					<h3>Servicios</h3>
-					<p>Echale un vistazo a nuestros servicios</p>
+					<h3>Trabajos</h3>
+					<p>Échale un vistazo a nuestros trabajos</p>
 				</header>
 
 				<div class="gallery">
@@ -76,27 +89,6 @@ const projects = (await getCollection('work'))
 						Ver todos
 						<Icon icon="arrow-right" size="1.2em" />
 					</CallToAction>
-				</div>
-			</section>
-
-			<section class="section with-background bg-variant">
-				<header class="section-header stack gap-2 lg:gap-4">
-					<h3>Menciones</h3>
-					<p>
-						Esto es lo que algunos de nuestros clientes dicen:
-					</p>
-				</header>
-
-				<div class="gallery">
-					<Grid variant="small">
-						{
-							['Hector Renaud', 'Ivan Perez', 'Hotel Laredo', 'Vanesa7365', 'Montse Reixach'].map((brand) => (
-								<li class="mention-card">
-									<p>{brand}</p>
-								</li>
-							))
-						}
-					</Grid>
 				</div>
 			</section>
 		</main>
